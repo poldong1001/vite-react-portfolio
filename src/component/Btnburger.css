@@ -1,0 +1,15 @@
+.hamburger-line {
+  display: flex;
+  border-radius: 2px;
+  /* gap: 50px; */
+  margin: 5px;
+  background-color: rgba(72, 72, 72, 1);
+  width: 40px;
+  height: 3px;
+  /* opacity: 50px; */
+  text-indent: 99px;
+}
+
+#dplist {
+  background-color: red;
+}
