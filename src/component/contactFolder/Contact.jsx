@@ -132,7 +132,8 @@ function Contact() {
               // backgroundColor: "red",
               // position: "relative",
 
-              backgroundColor: "#f5f5f5",
+              // backgroundColor: "#f5f5f5",
+              backgroundColor: "rgba(224, 190, 112, 1)",
               // padding: theme.spacing(3),
               textAlign: "center",
               position: "fixed",
